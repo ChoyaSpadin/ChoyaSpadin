@@ -33,4 +33,4 @@
 
 <br/>
   
-<img src="https://raw.githubusercontent.com/choyaspadin/choyaspadin/output/github-snake.svg" align="center" />
+![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
