@@ -14,7 +14,8 @@
 <br/>
 <br/>
 
-## My Skill Set
+<div align="center"> <strong>My Skill Set</strong> </div>
+<br/>
 <div align="center" display="flex">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
@@ -27,11 +28,8 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50">
 </div>
-
+<br/>
 <table><tr><td valign="top" width="33%">
 
 
-<br/>
-  
-![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
-![Snake animation](https://github.com/ChoyaSpadin/ChoyaSpadin/blob/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/ChoyaSpadin/ChoyaSpadin/output/github-snake.svg" align="center" />
