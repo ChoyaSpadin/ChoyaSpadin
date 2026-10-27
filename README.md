@@ -8,16 +8,16 @@
 
 <h3>📊 GitHub Stats</h3>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=choyaspadin&show_icons=true&theme=dracula&hide_border=true&border_radius=10" alt="GitHub Stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=choyaspadin&hide=brainfuck,mathematica&layout=compact&theme=dracula&hide_border=true&border_radius=10" alt="Top Languages" />
+<img height="135" src="https://github-readme-stats.vercel.app/api?username=choyaspadin&show_icons=true&theme=dracula&hide_border=true&border_radius=10" alt="GitHub Stats" />
+<img height="135" src="https://streak-stats.demolab.com?user=choyaspadin&theme=dracula&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 
-<img src="https://streak-stats.demolab.com?user=choyaspadin&theme=dracula&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=choyaspadin&hide=brainfuck,mathematica&layout=compact&theme=dracula&hide_border=true&border_radius=10" alt="Top Languages" />
 
 <br/><br/>
 
 <h3>🛠️ My Skill Set</h3>
 
-<img src="https://skillicons.dev/icons?i=html,css,sass,js,react,angularjs,bootstrap,nodejs,git&perline=9" alt="HTML5, CSS3, Sass, JavaScript, React, Angular, Bootstrap, Node.js, Git" />
+<img src="https://skillicons.dev/icons?i=html,css,sass,js,react,angular,bootstrap,nodejs,git&perline=9" alt="HTML5, CSS3, Sass, JavaScript, React, Angular, Bootstrap, Node.js, Git" />
 
 <br/><br/>
 
