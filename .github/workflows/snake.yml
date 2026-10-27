@@ -4,19 +4,26 @@ on:
   schedule:
     - cron: '0 */6 * * *'
   workflow_dispatch:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
 
 jobs:
   snk:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: Platane/snk@v0.0.18
+      - uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          svg_out_path: dist/github-snake.svg
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=#bd93f9
 
-      - name: push github-snake.svg to the main branch
-        uses: crazy-max/ghaction-github-pages@v2.5.0
+      - name: push github-snake.svg to the output branch
+        uses: crazy-max/ghaction-github-pages@v5
         with:
           target_branch: output
           build_dir: dist
